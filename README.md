@@ -41,6 +41,7 @@ Only the proxy server is exposed to the internet. The application and database t
 ---
 
 ## Architecture
+![Three-Tier Architecture](architecture-diagram.png)
 
 ```
                 Internet
